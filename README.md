@@ -3,12 +3,12 @@
 ## Week 12 module challenge 
 
 ### Table of Contents
--
--
--
--
--
--
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Demo](#demo)
+- [Contribution](#contribution)
+- [License](#license)
 
 ## Description
 The purpose of this app is to modify and view an employee database using the terminal. First, mySQL is installed to create a database with tables and seed the tables with values. The inquirer library is used to create a prompt that gives the user choices to view the employee database, or modify it. Lastly, the console table library is used to render the database inside the terminal upon the user choice from the inquirer prompts. 
