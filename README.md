@@ -29,7 +29,11 @@ This app allows you to view all employees, all roles, and all departments. You m
 
 ## Demo 
 This is a video demonstrating the functionality of the finished app. 
-[DemoVideo] (https://drive.google.com/file/d/15QFpldybbdi8zJqOVTN4tfgtHR0phB1N/view)
+[DemoVideo link] (https://drive.google.com/file/d/15QFpldybbdi8zJqOVTN4tfgtHR0phB1N/view)
+
+https://github.com/sandyvzqz/SqlEmployeeTracker/assets/155387264/78eacf93-a409-4681-b2d7-ac322acecf21
+
+
 
 ## Contribution
 I referenced these articles to help me with the code of this project.
